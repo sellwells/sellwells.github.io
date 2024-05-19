@@ -1,0 +1,9 @@
+
+
+
+d:
+color 5
+title 2-Redis
+cd D:\sourcecode\webtools\Redis-x64-5.0.10
+redis-server.exe redis.windows.conf
+

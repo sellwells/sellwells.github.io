@@ -1,0 +1,33 @@
+d:
+
+
+
+cd D:\sourcecode\jdc\Shop_BusinessPortalAPI
+
+
+
+start   cmd /k  " color 6 & title 0-admin-api & java -jar D:\sourcecode\jdc\Shop_BusinessPortalAPI\admin\target\admin-4.2.5.jar"
+
+
+
+start   cmd /k  " color 6 & title 1-xxl-job-admin & cd D:\sourcecode\jdc\Shop_BusinessPortalAPI\xxl-job\release & java -jar xxl-job-admin-2.3.0-SNAPSHOT2.jar  --spring.config.location=application-test.properties"
+
+
+
+
+
+start   cmd /k  " color 6 & title 2-buyer-api & java -jar D:\sourcecode\jdc\Shop_BusinessPortalAPI\buyer-api\target\buyer-api-4.2.5.jar"
+
+
+start   cmd /k   "color 6 & title 3-common-api  & java -jar D:\sourcecode\jdc\Shop_BusinessPortalAPI\common-api\target\common-api-4.2.5.jar"
+
+
+start   cmd /k   "color 6 & title 4-seller-api  & java -jar D:\sourcecode\jdc\Shop_BusinessPortalAPI\seller-api\target\seller-api-4.2.5.jar"
+
+
+start   cmd /k  "color 6 & title 5-manager-api         & java -jar D:\sourcecode\jdc\Shop_BusinessPortalAPI\manager-api\target\manager-api-4.2.5.jar"
+
+
+start   cmd /k   "color 6 & title 6-consumer    & java -jar D:\sourcecode\jdc\Shop_BusinessPortalAPI\consumer\target\consumer-4.2.5.jar"
+
+pause
