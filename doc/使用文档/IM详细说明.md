@@ -4,19 +4,19 @@
 
 #### 前端代码：
 
-https://gitee.com/beijing_hongye_huicheng/lilishop-ui/tree/master/im
+https://gitee.com/beijing_sellwell/sellwell-ui/tree/master/im
 
 #### 后端代码
 
-https://gitee.com/beijing_hongye_huicheng/lilishop/tree/master/im-api
+https://gitee.com/beijing_sellwell/sellwell/tree/master/im-api
 
 ## 启动IM
 
 #### IM-API
 
-1、打开API项目：https://gitee.com/beijing_hongye_huicheng/lilishop/tree/master/im-api
+1、打开API项目：https://gitee.com/beijing_sellwell/sellwell/tree/master/im-api
 
-2、修改配置文件：https://gitee.com/beijing_hongye_huicheng/lilishop/blob/master/im-api/src/main/resources/application.yml (PS:修改数据库，redis，elasticsearch等连接配置)
+2、修改配置文件：https://gitee.com/beijing_sellwell/sellwell/blob/master/im-api/src/main/resources/application.yml (PS:修改数据库，redis，elasticsearch等连接配置)
 
 3、mvn打包，然后启动jar包。
 
@@ -26,9 +26,9 @@ https://gitee.com/beijing_hongye_huicheng/lilishop/tree/master/im-api
 
 1、修改配置文件
 
-测试环境：https://gitee.com/beijing_hongye_huicheng/lilishop-ui/blob/master/im/.env.development
+测试环境：https://gitee.com/beijing_sellwell/sellwell-ui/blob/master/im/.env.development
 
-生产环境：https://gitee.com/beijing_hongye_huicheng/lilishop-ui/blob/master/im/.env
+生产环境：https://gitee.com/beijing_sellwell/sellwell-ui/blob/master/im/.env
 
 #### 参数说明：
 
@@ -78,13 +78,13 @@ Copy
 
 移动端配置--imWebSrc与baseWsUrl
 
-https://e.gitee.com/beijing_hongye_huicheng/repos/beijing_hongye_huicheng/lilishop-uniapp/blob/master/config/config.js
+https://e.gitee.com/beijing_sellwell/repos/beijing_sellwell/sellwell-uniapp/blob/master/config/config.js
 
 ![img](https://docs.pickmall.cn/help/images/im%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%85%8D%E7%BD%AE.png)
 
 以及配置IM-API
 
-https://e.gitee.com/beijing_hongye_huicheng/repos/beijing_hongye_huicheng/lilishop-uniapp/blob/master/config/api.js
+https://e.gitee.com/beijing_sellwell/repos/beijing_sellwell/sellwell-uniapp/blob/master/config/api.js
 
 ![img](https://docs.pickmall.cn/help/images/imApi1.png)
 

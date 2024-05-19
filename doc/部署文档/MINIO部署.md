@@ -2,7 +2,7 @@
 
 #### docker-compose文件下载
 
-https://gitee.com/beijing_hongye_huicheng/docker/blob/master/docker-compose-minio.yml
+https://gitee.com/beijing_sellwell/docker/blob/master/docker-compose-minio.yml
 
 #### docker-compose部署
 
