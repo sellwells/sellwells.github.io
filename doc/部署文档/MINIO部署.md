@@ -14,6 +14,6 @@ https://gitee.com/beijing_sellwell/docker/blob/master/docker-compose-minio.yml
 
 #### 系统配置
 
-![image-20220810170143002](https://docs.pickmall.cn/deploy/images/minio-setting.png)
+![image-20220810170143002](https://docs.sellwell.cn/deploy/images/minio-setting.png)
 
 #### 测试文件上传即可

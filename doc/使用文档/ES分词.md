@@ -18,4 +18,4 @@
 
 添加分词输入需要添加的分词内容保存后添加该分词。
 
-![img](https://docs.pickmall.cn/help/images/es%E5%88%86%E8%AF%8D.png)
+![img](https://docs.sellwell.cn/help/images/es%E5%88%86%E8%AF%8D.png)

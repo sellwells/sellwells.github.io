@@ -16,4 +16,4 @@ OSS资源列表展示：原文件名称、储存文件名称、缩略图、文�
 
 勾选需要删除的oss图片点击批量删除进行批量删除操作。
 
-![img](https://docs.pickmall.cn/help/images/oss%E9%85%8D%E7%BD%AE.png)
+![img](https://docs.sellwell.cn/help/images/oss%E9%85%8D%E7%BD%AE.png)
